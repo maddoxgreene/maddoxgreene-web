@@ -17,10 +17,10 @@ const HeroSection = () => {
                 </h1>
                 
                 <div className="space-y-4 text-lg text-gray-300 leading-relaxed max-w-xl">
-                  <p className="text-xl text-blue-300 font-medium">Cybersecurity & Infrastructure Specialist</p>
-                  <p className="text-xl text-blue-300 font-light mt-[-10px]">Certified IT Professional</p>
+                  <p className="text-xl text-blue-300 font-medium">IT Support Professional</p>
                   <p className="text-xl text-blue-300 font-light mt-[-10px]">Customer Experience Professional</p>
-                  <p>As a 22-year-old cybersecurity and networking professional, I&apos;m currently pursuing a Bachelor&apos;s degree in Information System Security, backed by hands-on experience in IT support, infrastructure, and cybersecurity. I&apos;ve held leadership positions in both engineering and customer-facing roles, focusing on optimizing systems and enhancing user experience, and hold certifications from Cisco and Google.</p>
+                  <p className="text-xl text-blue-300 font-light mt-[-10px]">Cybersecurity Specialist</p>
+                  <p>Dedicated and results-oriented IT professional with hands-on experience in systems administration customer experience management, and technical support operations. Proven ability to deliver high-quality IT support, automate processes with PowerShell scripting, and maintain exceptional service standards in fast-paced environments. Skilled in troubleshooting complex issues, managing help desk platforms (Zendesk), implementing self-service solutions, and collaborating cross-functionally to improve system reliability and user satisfaction.</p>
                 </div>
               </div>
               

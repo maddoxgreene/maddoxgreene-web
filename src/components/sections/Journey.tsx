@@ -1,6 +1,7 @@
 import React from 'react';
 import { Briefcase, GraduationCap } from 'lucide-react';
 import { journey } from '@/data/portfolioData'; // Import data
+import ResumeCard from '@/components/ResumeCard'
 import GradientText from '../GradientText';
 import GlassCard from '../GlassCard';
 
@@ -72,8 +73,10 @@ const JourneySection = () => {
                </div>
                ))}
              </div>
+             <ResumeCard></ResumeCard>
            </div>
          </section>
+         
   );
 };
 

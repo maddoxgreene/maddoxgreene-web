@@ -10,10 +10,10 @@ export interface JourneyItem {
 }
 
 export const journey: JourneyItem[] = [
-    { period: "Present", title: "Customer Experience Manager", company: "Leading CX Operations", description: "Spearheading customer experience initiatives, managing cross-functional teams, and implementing data-driven improvements.", type: "work", technologies: ["Team Leadership", "Data Analytics", "Process Optimization"] },
-    { period: "2024 - Present", title: "Bachelor's in Information System Security", company: "University Studies", description: "Pursuing specialized education in cybersecurity, focusing on advanced threat analysis, digital forensics, and security architecture.", type: "education", technologies: ["Digital Forensics", "Cryptography", "Incident Response"] },
-    { period: "2023 - Present", title: "Penetration Tester", company: "Cybersecurity Consulting", description: "Conducting security assessments for startup enterprises, identifying critical vulnerabilities, and providing actionable remediation.", type: "work", technologies: ["OWASP", "Burp Suite", "Metasploit", "Nessus"] },
-    { period: "2022 - Present", title: "System Administrator", company: "Enterprise IT Operations", description: "Managing hybrid cloud infrastructure for 10,000+ users, implementing automation, and maintaining 99.9% uptime.", type: "work", technologies: ["AWS", "Docker", "Kubernetes", "Ansible"] },
+    { period: "2024 - 2026", title: "Customer Experience Manager", company: "Leading CX Operations", description: "Spearheading customer experience initiatives, managing cross-functional teams, and implementing data-driven improvements.", type: "work", technologies: ["Team Leadership", "Data Analytics", "Process Optimization"] },
+    { period: "2024 - 2026", title: "Bachelor's in Information System Security", company: "University Studies", description: "Pursuing specialized education in cybersecurity, focusing on advanced threat analysis, digital forensics, and security architecture.", type: "education", technologies: ["Digital Forensics", "Cryptography", "Incident Response"] },
+    { period: "2023 - 2024", title: "System Administrator", company: "Enterprise IT Operations", description: "Managing hybrid cloud infrastructure for 10,000+ users, implementing automation, and maintaining 99.9% uptime.", type: "work", technologies: ["AWS", "Docker", "Kubernetes", "Ansible"] },
+    { period: "2020 - 2022", title: "Event Sales Representative", company: "Sales Management and Showcasing", description: "Leading top 3 in sales of HP products and partnership accessories, showcasing products and building customer loyalty.", type: "work", technologies: ["Sales Force", "Microsoft Teams"] }
 ];
 
 export const certifications = [
