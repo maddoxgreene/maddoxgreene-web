@@ -1,7 +1,7 @@
 import React from 'react';
 import GradientText from '../GradientText'; // Make sure this path is correct
 
-const navItems = ["About", "Journey", "Work", "Certifications", "Contact"];
+const navItems = ["About", "Journey", "Work", "Certifications", "Contact", "Resume"];
 
 const Header = () => {
   return (
