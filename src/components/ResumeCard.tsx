@@ -2,10 +2,10 @@ import React from 'react';
 import { FileText, ExternalLink } from 'lucide-react';
 
 const ResumeCard = () => {
-  const resumeUrl = "https://drive.google.com/file/d/1E_UlfvW1Mb9rv-A7AbAmsGcU3l0Q-Tks/view?usp=drivesdk";
+  const resumeUrl = "https://drive.google.com/file/d/1LfxVS6N4Asq1uWBzOrGZaavhIwU59zaY/view?usp=sharing";
 
   return (
-    <div id="resume" className="mt-9 p-1 width-[100%] rounded-2xshadow-xl">
+    <div className="mt-50 p-1 width-[100%] rounded-2xshadow-xl">
       <div className="bg-white/5 text-white p-6 rounded-[14px] flex flex-col items-center text-center">
         <h2 className="text-xl font-bold mb-4">View My Resume</h2>
         

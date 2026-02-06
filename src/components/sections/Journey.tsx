@@ -23,8 +23,8 @@ const JourneySection = () => {
                  <div className={`
                    group cursor-pointer transform transition-all duration-500 hover:scale-[1.02] relative
                    ${item.type === 'education' 
-                     ? 'hover:shadow-[0_0_20px_rgba(236,72,153,0.4)]' 
-                     : 'hover:shadow-[0_0_20px_rgba(59,130,246,0.4)]'
+                     ? 'hover:shadow-[0_0_20px_rgba(0,0,0,0.4)]' 
+                     : 'hover:shadow-[0_0_20px_rgba(0,0,0,0.4)]'
                    }
                    rounded-2xl
                  `} key={index}>
@@ -72,6 +72,8 @@ const JourneySection = () => {
                  </GlassCard>
                </div>
                ))}
+
+               <div id="resume"></div>
              </div>
              <ResumeCard></ResumeCard>
            </div>
