@@ -20,7 +20,7 @@ const HeroSection = () => {
                   <p className="text-xl text-blue-300 font-medium">IT Support Professional</p>
                   <p className="text-xl text-blue-300 font-light mt-[-10px]">Customer Experience Leader</p>
                   <p className="text-xl text-blue-300 font-light mt-[-10px]">Cybersecurity Specialist</p>
-                  <p>Customer Experience and IT professional with experience leading SaaS support operations, driving SAT scores, and improving customer satisfaction at scale. Strong background collaborating with Engineering and Product teams to optimize workflows and deliver actionable insights. Technical experience spanning cybersecurity operations, systems administration, and infrastructure support with a focus on reliability, security, and measurable results in fast-paced environments.</p>
+                  <p>Customer Experience and IT professional with experience leading SaaS support operations, driving CSAT scores, and improving customer satisfaction at scale. Strong background collaborating with Engineering and Product teams to optimize workflows and deliver actionable insights. Technical experience spanning cybersecurity operations, systems administration, and infrastructure support with a focus on reliability, security, and measurable results in fast-paced environments.</p>
                 </div>
               </div>
               
