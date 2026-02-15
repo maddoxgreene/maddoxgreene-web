@@ -18,9 +18,9 @@ const HeroSection = () => {
                 
                 <div className="space-y-4 text-lg text-gray-300 leading-relaxed max-w-xl">
                   <p className="text-xl text-blue-300 font-medium">IT Support Professional</p>
-                  <p className="text-xl text-blue-300 font-light mt-[-10px]">Customer Experience Professional</p>
+                  <p className="text-xl text-blue-300 font-light mt-[-10px]">Customer Experience Leader</p>
                   <p className="text-xl text-blue-300 font-light mt-[-10px]">Cybersecurity Specialist</p>
-                  <p>Dedicated and results-oriented IT professional with hands-on experience in systems administration customer experience management, and technical support operations. Proven ability to deliver high-quality IT support, automate processes with PowerShell scripting, and maintain exceptional service standards in fast-paced environments. Skilled in troubleshooting complex issues, managing help desk platforms (Zendesk), implementing self-service solutions, and collaborating cross-functionally to improve system reliability and user satisfaction.</p>
+                  <p>Customer Experience and IT professional with experience leading SaaS support operations, driving SAT scores, and improving customer satisfaction at scale. Strong background collaborating with Engineering and Product teams to optimize workflows and deliver actionable insights. Technical experience spanning cybersecurity operations, systems administration, and infrastructure support with a focus on reliability, security, and measurable results in fast-paced environments.</p>
                 </div>
               </div>
               

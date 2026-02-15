@@ -2,7 +2,7 @@ import React from 'react';
 import { FileText, ExternalLink } from 'lucide-react';
 
 const ResumeCard = () => {
-  const resumeUrl = "https://drive.google.com/file/d/1LfxVS6N4Asq1uWBzOrGZaavhIwU59zaY/view?usp=sharing";
+  const resumeUrl = "https://drive.google.com/file/d/1lxhZ3OWLsNvYl3uB0IFJsvpumGc2Q1Kt/view?usp=drivesdk";
 
   return (
     <div className="mt-50 p-1 width-[100%] rounded-2xshadow-xl">
