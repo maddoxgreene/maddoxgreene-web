@@ -26,7 +26,7 @@ const CollaborationsCarousel = () => {
                   alt={`${collab.name} logo`}
                   width={48}
                   height={48}
-                  className="max-w-full max-h-full object-contain opacity-80"
+                  className="max-w-full max-h-full object-contain opacity-80 rounded-md"
                   loading="eager"
                 />
               </div>

@@ -5,7 +5,7 @@ import { Linkedin, Github, Mail, Coffee } from 'lucide-react';
 const socialLinks = [
   { href: "https://www.linkedin.com/in/maddox-g-a759aa338", icon: Linkedin, color: "hover:text-blue-400" },
   { href: "https://github.com/maddoxgreene", icon: Github, color: "hover:text-white" },
-  { href: "mailto:business@maddoxgreene.tech", icon: Mail, color: "hover:text-pink-400" },
+  { href: "mailto:business@maddoxgreene.com", icon: Mail, color: "hover:text-pink-400" },
   { href: "https://buymeacoffee.com/realconflexed", icon: Coffee, color: "hover:text-yellow-400" }
 ];
 
